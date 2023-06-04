@@ -5,8 +5,6 @@
 
 O **Proffy** é uma aplicação Web e Mobile feita para auxiliar na conexão entre os alunos e os professores. Logo, esta aplicação oferece aos professores a possibilidade de registrar aulas, podendo adicionar informações como a disciplina, o custo e horário e aos alunos a possibilidade de buscar pelas aulas cadastradas.
 
-Essa aplicação foi realizada durante a Next Level Week 2, pela Rocketseat.
-
 🚀 **Tecnologias utilizadas**
 * JavaScript
 * HTML
@@ -42,7 +40,7 @@ $ node src/server.js
 
 🔖 **Layout**
 
-Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no Figma para acessá-lo.
+Nos links abaixo você encontra o layout do projeto web e também do mobile.
 
 * [Layout Web](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 * [Layout Mobile](https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile?node-id=0%3A1)
